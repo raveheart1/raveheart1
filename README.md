@@ -4,7 +4,7 @@
 Hi, I'm Gordon McWilliams, a DevOps consultant with a passion for cloud computing and automation. Currently working at Coretek Services.
 
 - 🛠️ I’m currently working in Terraform and Azure.
-- 💼 I’m looking to increase my salary and considering earning a degree to progress my career.
+- 💼 I’m considering earning a degree to progress my career.
 - 🍳 Cooking! I love to cook and I am always looking for new recipes.
 
 ## Skills
