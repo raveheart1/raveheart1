@@ -1,4 +1,27 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
+
+## About Me
+Hi, I'm Gordon McWilliams, a DevOps consultant with a passion for cloud computing and automation. Currently working at Coretek Services.
+
+- 🛠️ I’m currently working in Terraform and Azure.
+- 💼 I’m looking to increase my salary and considering earning a degree to progress my career.
+- 🍳 Cooking! I love to cook and I am always looking for new recipes.
+
+## Skills
+- **Languages:** Python, Bash, YAML
+- **Tools:** Terraform, Docker, Kubernetes, GitHub Actions
+- **Cloud Providers:** Azure, a little GCP
+
+## Projects - Under Construction!
+<!--
+- [Project 1](https://github.com/yourusername/project1): Brief description of the project.
+- [Project 2](https://github.com/yourusername/project2): Brief description of the project.
+-->
+
+## Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/gordon-k-mcwilliams-945556158/)
+- [Threads](https://www.threads.net/@therealgkm)
+
 
 <!--
 **raveheart1/raveheart1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
