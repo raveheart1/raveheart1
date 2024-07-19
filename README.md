@@ -22,11 +22,6 @@ Hi, I'm Gordon McWilliams, a DevOps consultant with a passion for cloud computin
 - [LinkedIn](https://www.linkedin.com/in/gordon-k-mcwilliams-945556158/)
 - [Threads](https://www.threads.net/@therealgkm)
 
-
-<--
-**raveheart1/raveheart1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
-
 - 🔭 I’m currently working on a personal financial advisor app!
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on infrastructure deployment methods and Python programming
