@@ -8,8 +8,8 @@ Hi, I'm Gordon McWilliams, a DevOps consultant with a passion for cloud computin
 - 🍳 Cooking! I love to cook and I am always looking for new recipes.
 
 ## Skills
-- **Languages:** Python, Bash, YAML
-- **Tools:** Terraform, Docker, Kubernetes, GitHub Actions
+- **Languages:** HCL, PowerShell, Bash, YAML, Ansible, Python (Learning)
+- **Tools:** Terraform, Docker, Kubernetes, GitHub Actions, Azure DevOps
 - **Cloud Providers:** Azure, a little GCP
 
 ## Projects - Under Construction!
@@ -23,17 +23,16 @@ Hi, I'm Gordon McWilliams, a DevOps consultant with a passion for cloud computin
 - [Threads](https://www.threads.net/@therealgkm)
 
 
-<!--
+<--
 **raveheart1/raveheart1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on a personal financial advisor app!
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on infrastructure deployment methods and Python programming
+- 🤔 I’m looking for help with: I am always looking for new books and advice on personal and professional development
+- 💬 Ask me about AVD optimization and imageless deployment!
+- 📫 How to reach me: Use the links above to connect with me
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Football ⚽ and Formula 1 🏎️
+
