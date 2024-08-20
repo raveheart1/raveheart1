@@ -12,7 +12,7 @@ Hi, I'm Gordon McWilliams, a DevOps consultant with a passion for cloud computin
 - **Tools:** Terraform, Docker, Kubernetes, GitHub Actions, Azure DevOps
 - **Cloud Providers:** Azure, a little GCP
 
-## Projects - Under Construction!
+## Projects - Under Construction (20240820) (Return soon for updates)!
 <!--
 - [Project 1](https://github.com/yourusername/project1): Brief description of the project.
 - [Project 2](https://github.com/yourusername/project2): Brief description of the project.
