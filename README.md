@@ -12,6 +12,34 @@ Hi, I'm Gordon McWilliams, a DevOps consultant with a passion for cloud computin
 - **Tools:** Terraform, Docker, Kubernetes, GitHub Actions, Azure DevOps
 - **Cloud Providers:** Azure, a little GCP
 
+---
+
+### 🏅 Upcoming Azure Certifications
+
+I am currently working towards the following Azure certifications to enhance my skills and expertise in cloud services and AI technologies:
+
+1. **AI-900: Microsoft Azure AI Fundamentals**
+   - A foundational certification focused on the principles of AI and machine learning within the Azure ecosystem.
+   - **Skills covered**: Machine learning, AI workloads, Azure Cognitive Services, responsible AI.
+   - [More about AI-900](https://learn.microsoft.com/en-us/certifications/exams/ai-900)
+
+2. **AI-102: Microsoft Azure AI Engineer Associate**
+   - This certification is for those developing AI solutions using Azure services like Cognitive Services and Azure Machine Learning.
+   - **Skills covered**: Natural language processing, computer vision, knowledge mining, and AI solution deployment.
+   - [More about AI-102](https://learn.microsoft.com/en-us/certifications/exams/ai-102)
+
+3. **AZ-204: Developing Solutions for Microsoft Azure**
+   - Designed for developers building cloud applications and services in Azure.
+   - **Skills covered**: Azure compute solutions, storage integration, security implementation, and troubleshooting.
+   - [More about AZ-204](https://learn.microsoft.com/en-us/certifications/exams/az-204)
+
+4. **AZ-400: Microsoft Azure DevOps Engineer Expert**
+   - Focuses on implementing DevOps processes for version control, CI/CD pipelines, and automation in Azure environments.
+   - **Skills covered**: CI/CD implementation, infrastructure as code, monitoring, and security practices.
+   - [More about AZ-400](https://learn.microsoft.com/en-us/certifications/exams/az-400)
+
+---
+
 ## Projects - Under Construction (20240820) (Return soon for updates)!
 <!--
 - [Project 1](https://github.com/yourusername/project1): Brief description of the project.
