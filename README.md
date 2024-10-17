@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 ![](https://komarev.com/ghpvc/?username=raveheart1)
 ## About Me
-Hi, I'm Gordon McWilliams, a DevOps consultant with a passion for cloud computing and automation. Currently working at Coretek Services.
+Hi, I'm Gordon McWilliams, a DevOps consultant with a passion for cloud computing and automation.
 
 - 🛠️ I’m currently working in Terraform and Azure.
 - 💼 I’m considering earning a degree to progress my career.
