@@ -49,7 +49,7 @@ I am currently working towards the following Azure certifications to enhance my 
 - [LinkedIn](https://www.linkedin.com/in/gordon-k-mcwilliams-945556158/)
 - [Threads](https://www.threads.net/@therealgkm)
 
-- 🔭 I’m currently working on a personal financial advisor app!
+- 🔭 I’m currently working on a personal financial advisor tool and a few machine learning projects!
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on infrastructure deployment methods and Python programming
 - 🤔 I’m looking for help with: I am always looking for new books and advice on personal and professional development
