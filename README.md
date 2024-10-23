@@ -40,11 +40,10 @@ I am currently working towards the following Azure certifications to enhance my 
 
 ---
 
-## Projects - Under Construction (20240820) (Return soon for updates)!
-<!--
-- [Project 1](https://github.com/yourusername/project1): Brief description of the project.
-- [Project 2](https://github.com/yourusername/project2): Brief description of the project.
--->
+## Projects
+- [ScoreSage AI](https://github.com/raveheart1/ScoreSage): ScoreSage AI is a machine learning-driven platform designed to predict sports outcomes using historical data. The goal of the project is to provide low-risk, high-volume predictions with decent accuracy, allowing users to make informed decisions. The system leverages a variety of Azure services for data ingestion, processing, model training, and deployment.
+
+
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gordon-k-mcwilliams-945556158/)
