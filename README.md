@@ -21,7 +21,8 @@ I am currently working towards the following Azure certifications to enhance my 
 1. **AI-900: Microsoft Azure AI Fundamentals**
    - A foundational certification focused on the principles of AI and machine learning within the Azure ecosystem.
    - **Skills covered**: Machine learning, AI workloads, Azure Cognitive Services, responsible AI.
-   - [More about AI-900](https://learn.microsoft.com/en-us/certifications/exams/ai-900)
+   - [More about AI-900](https://learn.microsoft.com/en-us/certifications/exams/ai-900)  
+      #### <span style="color:blue">Achieved, January 15th, 2025</span>
 
 2. **AI-102: Microsoft Azure AI Engineer Associate**
    - This certification is for those developing AI solutions using Azure services like Cognitive Services and Azure Machine Learning.
