@@ -45,11 +45,7 @@ I am currently working towards the following Azure certifications to enhance my 
 
 ---
 
-## 📊 GitHub Stats & Streaks
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raveheart1&theme=default" alt="raveheart1 GitHub Streak" />
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raveheart1&show_icons=true&theme=default" alt="GitHub Stats" />
