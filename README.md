@@ -43,7 +43,23 @@ I am currently working towards the following Azure certifications to enhance my 
 ## Projects
 - [ScoreSage AI](https://github.com/raveheart1/ScoreSage): A machine learning-driven platform designed to predict sports outcomes using historical data. The goal of the project is to provide low-risk, high-volume predictions with decent accuracy, allowing users to make informed decisions. The system leverages a variety of Azure services for data ingestion, processing, model training, and deployment.
 
+---
 
+## 📊 GitHub Stats & Streaks
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raveheart1&theme=default" alt="raveheart1 GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raveheart1&show_icons=true&theme=default" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveheart1&layout=compact" alt="Top Languages" />
+</p>
+
+---
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/gordon-k-mcwilliams-945556158/)
@@ -57,4 +73,3 @@ I am currently working towards the following Azure certifications to enhance my 
 - 📫 How to reach me: Use the links above to connect with me
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Football ⚽ and Formula 1 🏎️
-
