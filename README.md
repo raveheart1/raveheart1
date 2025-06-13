@@ -40,11 +40,6 @@ I am currently working towards the following Azure certifications to enhance my 
 
 ---
 
-## Projects
-- [ScoreSage AI](https://github.com/raveheart1/ScoreSage): A machine learning-driven platform designed to predict sports outcomes using historical data. The goal of the project is to provide low-risk, high-volume predictions with decent accuracy, allowing users to make informed decisions. The system leverages a variety of Azure services for data ingestion, processing, model training, and deployment.
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
