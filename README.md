@@ -38,17 +38,6 @@ I am currently working towards the following Azure certifications to enhance my 
    - **Skills covered**: CI/CD implementation, infrastructure as code, monitoring, and security practices.
    - [More about AZ-400](https://learn.microsoft.com/en-us/certifications/exams/az-400)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raveheart1&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raveheart1&layout=compact" alt="Top Languages" />
-</p>
 
 ---
 
