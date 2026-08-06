@@ -9,7 +9,7 @@ I built a daily AI-persuasion game called **silver tongue**: one AI character wi
 
 I also built an orbital earth observation platform that is primarily focused on monitoring vegetation across the world, try some of the preconfigured sites or use the custom analysis tool to choose anywhere on Earth to view. All data is provided by ESA's Copernicus Sentinel-2 and hosted on Microsoft's planetary computer.
 
-**Take a look: [Orbital Earth Observation Platform (https://oeop.net)**
+**Take a look: [Orbital Earth Observation Platform](https://oeop.net)**
 
 ---
 
